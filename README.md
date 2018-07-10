@@ -1,2 +1,0 @@
-# ReactPost
-Created with CodeSandbox
